@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/mohit/Desktop/Packet_analyzer/build",
+  "command": "C:\\Users\\mohit\\Music\\mingw32\\bin\\c++.exe -IC:/Users/mohit/Desktop/Packet_analyzer/include -std=gnu++17 -o CMakeFiles\\packet_analyzer.dir\\src\\main.cpp.obj -c C:\\Users\\mohit\\Desktop\\Packet_analyzer\\src\\main.cpp",
+  "file": "C:\\Users\\mohit\\Desktop\\Packet_analyzer\\src\\main.cpp",
+  "output": "CMakeFiles\\packet_analyzer.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/mohit/Desktop/Packet_analyzer/build",
+  "command": "C:\\Users\\mohit\\Music\\mingw32\\bin\\c++.exe -IC:/Users/mohit/Desktop/Packet_analyzer/include -std=gnu++17 -o CMakeFiles\\packet_analyzer.dir\\src\\pcap_reader.cpp.obj -c C:\\Users\\mohit\\Desktop\\Packet_analyzer\\src\\pcap_reader.cpp",
+  "file": "C:\\Users\\mohit\\Desktop\\Packet_analyzer\\src\\pcap_reader.cpp",
+  "output": "CMakeFiles\\packet_analyzer.dir\\src\\pcap_reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/mohit/Desktop/Packet_analyzer/build",
+  "command": "C:\\Users\\mohit\\Music\\mingw32\\bin\\c++.exe -IC:/Users/mohit/Desktop/Packet_analyzer/include -std=gnu++17 -o CMakeFiles\\packet_analyzer.dir\\src\\packet_parser.cpp.obj -c C:\\Users\\mohit\\Desktop\\Packet_analyzer\\src\\packet_parser.cpp",
+  "file": "C:\\Users\\mohit\\Desktop\\Packet_analyzer\\src\\packet_parser.cpp",
+  "output": "CMakeFiles\\packet_analyzer.dir\\src\\packet_parser.cpp.obj"
+}
+]
